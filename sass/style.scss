@@ -1,0 +1,33 @@
+.text{
+    color: red;
+    &:visited{
+        color: purple;
+    }
+    &:hover{
+        color: blue;
+    }
+    &:active{
+        color: green;
+    }
+}
+strong{
+    color: green;
+}
+b{
+    color: red;
+}
+em{
+    color: pink;
+}
+i{
+    color: black;
+}
+h2{
+    color: red;
+}
+h3{
+    color: black;
+}
+h4{
+    color: green;
+}
